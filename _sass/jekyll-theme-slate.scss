@@ -260,10 +260,10 @@ Full-Width Styles
 }
 
 .navigation {
-  position: relative;
+  float: left;
   max-width: 300px;
   padding: 20px 10px;
-  margin: 0 auto;
+  height: 100%;
 }
 
 .inner {
