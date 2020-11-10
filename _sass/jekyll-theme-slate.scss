@@ -259,6 +259,13 @@ Full-Width Styles
   width: 100%;
 }
 
+.navigation {
+  position: relative;
+  max-width: 300px;
+  padding: 20px 10px;
+  margin: 0 auto;
+}
+
 .inner {
   position: relative;
   max-width: 640px;
@@ -353,6 +360,10 @@ Full-Width Styles
   background: #f2f2f2;
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
+}
+
+#nav_content {
+  padding-top: 40px;
 }
 
 #main_content {
